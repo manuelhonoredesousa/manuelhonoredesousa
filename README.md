@@ -27,15 +27,17 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 
  
 <div style="display: inline_block"><br>
-  <a href="https://github.com/manuelhonoredesousa">
+  
    <strong>Actualmente trabalho com: </strong>
   <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Manuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> </a>
+  <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="right" alt="Manuel-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/71514733"/>
 </div>
- 
+
+
+
  <div> 
     <a href="https://api.whatsapp.com/send?phone=244938308215" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Manuel-WhatsApp" target="_blank">
