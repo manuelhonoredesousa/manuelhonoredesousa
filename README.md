@@ -55,6 +55,3 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
  
 </div>
 
- ![Snake animation](https://github.com/manuelhonoredesousa/manuelhonoredesousa/blob/output/github-contribution-grid-snake.svg)
- 
-  
