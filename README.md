@@ -1,4 +1,4 @@
-Hello! My name is <strong>Manuel de Sousa</strong>. I've been a programmer since 2016, I have notions of different programming languages. But currently I'm focused on WEB programming, where day after day, I've been striving to be a FULL STAKE, I work with javascript (VUE.JS), and I'm also learning PHP when I can...
+Hello! My name is <strong>Manuel de Sousa</strong>. I've been a programmer since 2016, I have notions of different programming languages. But currently I'm focused on WEB programming, where day after day, I've been striving to be a FULL STAKE, I work with javascript, and I'm also learning React.js / ReactNative when I can...
 
 I am interested in acquiring new knowledge, ease of learning, leadership, dedication, agility, creativity, organization, and availability to work. Good presentation, dynamics and good direction.
 
@@ -6,10 +6,10 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 
 
 - 🔭 I’m available for work
-- 💻 I intend to study <strong>PHP (Laravel, Lumem), Ardonis...</strong> ❤️️
-- 🌱 I’m currently learning Vue.JS, Node.JS, MangoBD...
+- 💻 I intend to study <strong>React.js / ReactNative</strong> ❤️️
+- 🌱 I’m currently learning TypeScript, Node.JS, React.JS, ReactNative...
 - 👯 I’m looking to collaborate on new projects...
-- 🤔 I’m looking for help with vue.js...
+- 🤔 I’m looking for help with React...
 - 💬 Ask me about everthing that you want to know about me...
 <strong> 
 👉 📫 How to reach me: https://linktr.ee/manueldesousa
@@ -29,10 +29,10 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 <div style="display: inline_block"><br>
   
    <strong>Actualmente trabalho com: </strong>
-  <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Manuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Manuel-React" height="30" width="40" src="https://https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="right" alt="Manuel-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/71514733"/>
 </div>
 
