@@ -34,7 +34,7 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
   <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Manuel-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg"/>
   <img align="center" alt="Manuel-git" height="30" width="40" src="https://www.svgrepo.com/show/353782/git-icon.svg"/>
-  <img align="center" alt="Manuel-github" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/21419649671582692244-512.png"/>
+  <img align="center" alt="Manuel-github" height="30" width="40" src="https://www.svgrepo.com/show/343674/github.svg"/>
   <img align="right" alt="Manuel-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/71514733"/>
 </div>
 
