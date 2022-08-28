@@ -36,8 +36,8 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 </div> -->
 
 
- <div> 
    <strong>Contact: </strong>
+ <div> 
     <a href="https://api.whatsapp.com/send?phone=244938308215" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Manuel-WhatsApp" target="_blank">
     </a>
