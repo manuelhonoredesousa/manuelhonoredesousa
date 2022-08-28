@@ -4,28 +4,25 @@ I am interested in acquiring new knowledge, ease of learning, leadership, dedica
 
 I aim to obtain an opportunity to put into practice the wide range of knowledge acquired and I guarantee good efficiency, brotherly love, and a good team spirit, able to perform my role, ability to adapt to any role.
 
-
 - 🔭 I’m available for work
 - 💻 I intend to study <strong>React.js / ReactNative</strong> ❤️️
 - 🌱 I’m currently learning TypeScript, Node.JS, React.JS, ReactNative...
 - 👯 I’m looking to collaborate on new projects...
 - 🤔 I’m looking for help with React...
 - 💬 Ask me about everthing that you want to know about me...
-<strong> 
+<strong>
 👉 📫 How to reach me: https://linktr.ee/manueldesousa
 </strong>
 <p></p><br/>
 
 <hr/>
-<!--
-<div align="center" >
-   <a href="https://github.com/manuelhonoredesousa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuelhonoredesousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelhonoredesousa&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-    </div>
--->
- 
+
+<div align="center">
+  <a href="https://github.com/manuelhonoredesousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuelhonoredesousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelhonoredesousa&layout=compact&langs_count=7&theme=dracula"/></a></div>
+
+
 <div style="display: inline_block"><br>
   
    <strong>Actualmente trabalho com: </strong>
@@ -36,8 +33,6 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
   <img align="center" alt="Manuel-git" height="30" width="40" src="https://www.svgrepo.com/show/353782/git-icon.svg"/>
   <img align="right" alt="Manuel-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/71514733"/>
 </div>
-
-
 
  <div> 
     <a href="https://api.whatsapp.com/send?phone=244938308215" target="_blank">
@@ -57,4 +52,3 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
     </a> 
  
 </div>
-
