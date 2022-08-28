@@ -25,18 +25,19 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelhonoredesousa&layout=compact&langs_count=7&theme=dracula"/></a></div>
 
 
-<div style="display: inline_block"><br>
-  
-   <strong>Actualmente trabalho com: </strong>
+<!-- <div style="display: inline_block"><br>
+<strong>My Tools: </strong>
   <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Manuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Manuel-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg"/>
   <img align="center" alt="Manuel-git" height="30" width="40" src="https://www.svgrepo.com/show/353782/git-icon.svg"/>
   <img align="right" alt="Manuel-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/71514733"/>
-</div>
+</div> -->
+
 
  <div> 
+   <strong>Contact: </strong>
     <a href="https://api.whatsapp.com/send?phone=244938308215" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Manuel-WhatsApp" target="_blank">
     </a>
