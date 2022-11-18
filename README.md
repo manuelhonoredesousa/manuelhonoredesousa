@@ -11,7 +11,7 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 - 🤔 I’m looking for help with React...
 - 💬 Ask me about everthing that you want to know about me...
 <strong>
-👉 📫 How to reach me: https://linktr.ee/manueldesousa
+👉 📫 How to reach me: https://soudev.netlify.app/
 </strong>
 <p></p><br/>
 
