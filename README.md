@@ -1,8 +1,12 @@
-Hello! My name is <strong>Manuel de Sousa</strong>. I've been a programmer since 2016, I have notions of different programming languages. But currently I'm focused on WEB programming, where day after day, I've been striving to be a FULL STAKE, I work with javascript, and I'm also learning React.js / ReactNative when I can...
+My name is Manuel de Sousa, I'm passionate about Technology, studying programming since I started high school in 2016 in the Computer Technician course, and right now I'm attending the 3rd year of the Faculty and I'm doing Computer Engineering.
 
-I am interested in acquiring new knowledge, ease of learning, leadership, dedication, agility, creativity, organization, and availability to work. Good presentation, dynamics and good direction.
+I don't know everything, but I do my best, I'm the type of person that when something is asked and I don't know the answer, I go after the answer to find out...
 
-I aim to obtain an opportunity to put into practice the wide range of knowledge acquired and I guarantee good efficiency, brotherly love, and a good team spirit, able to perform my role, ability to adapt to any role.
+I am humble and know how to recognize when I speak... I would love an opportunity and I would love to learn new things and have new challenges...
+
+I hope I can fit in, and help with everything I can... Thank you for your attention...
+
+👉 📫 <strong> My Portfolio :> https://soudev.netlify.app </strong>
 
 - 🔭 I’m available for work
 - 💻 I intend to study <strong>React.js / ReactNative</strong> ❤️️
@@ -10,10 +14,8 @@ I aim to obtain an opportunity to put into practice the wide range of knowledge 
 - 👯 I’m looking to collaborate on new projects...
 - 🤔 I’m looking for help with React...
 - 💬 Ask me about everthing that you want to know about me...
-<strong>
-👉 📫 How to reach me: https://soudev.netlify.app/
-</strong>
-<p></p><br/>
+
+
 
 <hr/>
 
