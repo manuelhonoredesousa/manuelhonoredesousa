@@ -37,9 +37,11 @@ src="https://img.shields.io/twitter/follow/HonoreSousa?logo=twitter&style=for-th
 
 <a href="http://www.github.com/manuelhonoredesousa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelhonoredesousa&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<!--
 <a href="http://www.github.com/manuelhonoredesousa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manuelhonoredesousa&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/manuelhonoredesousa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelhonoredesousa&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
 ### Support Me
 
@@ -47,4 +49,13 @@ src="https://img.shields.io/twitter/follow/HonoreSousa?logo=twitter&style=for-th
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/manuel15sousa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
+<li>Paypal: sousa20manuel@gmail.com</li>
+<li>Volet: sousa64manuel@gmail.com</li>
+<li>AirTM: sousa64manuel@gmail.com</li>
+<li>Bitcoin: 1AXtxAo6RWpyXLzt5tzU7hRUAmce3rgmrp</li>
+<li>Litecoin: LQ2WLDJC1uW6wqutHDGhFwbbA8rDxMrFZp</li>
+<li>Bitcoin Cash: qrl7unl97v5p5k3cwm9erchk8wtghzt7vg2l8q4egn</li>
+<li>Tron: TNfVVQEjnNz382XBEETXajPvZUsTS8FqAP</li>
+<li>Doge: D9BUz7DXrjM6UAm8ef9u7j5jW2ymhXLR5o</li>
+<li>Dash: XqzqYNE1jAsSDSi6B6QcVzbwzTRuuNZmyF</li>
 </ul>
